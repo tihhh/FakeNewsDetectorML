@@ -21,5 +21,5 @@ F1-Score: 0.92 (real news) and 0.93 (fake news)
 
 Graphs of accuracy and loss across epochs showed consistent learning with minor fluctuations.
 
-####References
+####**References**
 The data was taken from kaggle: [Fake News Detection Datasets](http://https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets/data "Fake News Detection Datasets")
